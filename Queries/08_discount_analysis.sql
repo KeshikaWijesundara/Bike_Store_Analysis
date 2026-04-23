@@ -1,0 +1,10 @@
+-- What is total discount amount given?
+-- What is average discount rate?
+-- Which products get highest discounts?
+-- Which categories get highest discounts?
+-- Which store gives highest discounts?
+-- Which staff gives highest discounts?
+-- Do discounted products sell more units?
+-- Do discounts improve revenue enough?
+-- Which months had highest discount burn?
+-- What % of revenue was sacrificed as discounts?

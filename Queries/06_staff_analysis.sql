@@ -1,0 +1,10 @@
+-- Which staff generated highest revenue?
+-- Which staff handled most orders?
+-- Which staff sold most units?
+-- Which staff has highest average order value?
+-- Which staff gives highest discounts?
+-- Which staff has fastest shipping turnaround?
+-- Which manager oversees most staff?
+-- Which staff members are inactive?
+-- How does store staffing relate to sales?
+-- Who are top 3 sales employees?

@@ -1,0 +1,8 @@
+-- Average days from order to shipment?
+-- Which store ships fastest?
+-- Which store ships slowest?
+-- Which staff processes fastest?
+-- How many late shipments occurred?
+-- What % of orders shipped same day?
+-- Which months had delays?
+-- Does bigger order size delay shipping?

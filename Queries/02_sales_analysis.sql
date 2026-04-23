@@ -1,0 +1,17 @@
+-- What is total revenue generated?
+-- How many total orders were completed?
+-- What is total quantity sold?
+-- What is average revenue per order?
+-- What is monthly revenue trend?
+-- What is yearly revenue trend?
+-- Which month had highest sales?
+-- Which month had lowest sales?
+-- What is average monthly growth rate?
+-- What is revenue before discounts vs after discounts?
+-- How much money was lost through discounts?
+-- Which quarter performs best?
+-- Which weekday has highest sales?
+-- Which day of month has most orders?
+-- Are sales seasonal?
+-- What is running cumulative revenue over time?
+-- What was best year-over-year growth?

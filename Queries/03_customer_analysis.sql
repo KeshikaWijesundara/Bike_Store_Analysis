@@ -1,0 +1,17 @@
+-- How many unique customers purchased?
+-- Who are the top 10 customers by spending?
+-- Which customers placed most orders?
+-- What is average customer lifetime spend?
+-- How many one-time buyers exist?
+-- How many repeat customers exist?
+-- What % of customers are repeat buyers?
+-- Which state has most customers?
+-- Which city has most customers?
+-- Which state generates highest revenue?
+-- Which city has highest average order value?
+-- Which customers received highest discounts?
+-- What email domains do customers use most?
+-- Which customers have not ordered recently?
+-- What is average time between repeat purchases?
+-- Who are VIP customers (top spenders)?
+-- Which segment contributes most revenue?

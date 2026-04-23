@@ -1,0 +1,12 @@
+-- Which store generates highest revenue?
+-- Which store has most orders?
+-- Which store sells most units?
+-- Which store has highest average order value?
+-- Which store gives highest discounts?
+-- Which store has fastest shipping time?
+-- Which store has slowest shipping time?
+-- Which store has best revenue per customer?
+-- What % of company revenue comes from each store?
+-- Which store performs best by category?
+-- Which store has highest repeat customer rate?
+-- Which store has highest sales growth over time?

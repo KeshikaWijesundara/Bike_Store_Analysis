@@ -1,0 +1,17 @@
+-- Which products sell most by quantity?
+-- Which products generate most revenue?
+-- Which products sell least?
+-- Which products have never sold?
+-- Which categories generate highest revenue?
+-- Which categories sell highest volume?
+-- Which categories are declining?
+-- Which brands generate most revenue?
+-- Which brands sell most units?
+-- Which products receive highest discounts?
+-- Which products have low sales but high price?
+-- Which products are top sellers in each category?
+-- Which products are bottom sellers in each category?
+-- What % revenue comes from top 10 products?
+-- Do expensive products sell less?
+-- Which model year performs best?
+-- Which category has highest average product price?

@@ -1,0 +1,12 @@
+-- What is current stock by store?
+-- What is total stock by product?
+-- Which products are low stock (<10)?
+-- Which products are out of stock?
+-- Which products are overstocked?
+-- Which products have high stock but low sales? (dead stock)
+-- Which products have low stock but high sales? (restock urgently)
+-- Which store has most inventory units?
+-- Which category has highest inventory value?
+-- What is stock-to-sales ratio by product?
+-- Which products risk stockout soon?
+-- Which store has weakest inventory turnover?
