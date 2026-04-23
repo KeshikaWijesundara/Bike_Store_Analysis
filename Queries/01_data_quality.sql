@@ -75,6 +75,10 @@ HAVING COUNT(store_id) > 1
 
 
 -- Are there duplicate customer emails?
+SELECT email,count(*)
+FROM customers
+GROUP BY email
+HAVING COUNT(email) > 1
 
 -- Are there duplicate staff emails?
 
