@@ -75,12 +75,16 @@ HAVING COUNT(store_id) > 1
 
 
 -- Are there duplicate customer emails?
-SELECT email,count(*)
+SELECT email,COUNT(*)
 FROM customers
 GROUP BY email
 HAVING COUNT(email) > 1
 
 -- Are there duplicate staff emails?
+SELECT email,COUNT(*)
+FROM staffs
+GROUP BY email
+HAVING COUNT(email) >1
 
 -- Which tables contain null values in important columns?
 
