@@ -86,7 +86,6 @@ FROM staffs
 GROUP BY email
 HAVING COUNT(email) >1
 
--- Which tables contain null values in important columns?
 
 -- Are any products missing prices?
 
@@ -102,6 +101,15 @@ HAVING COUNT(email) >1
 
 -- Are discounts outside valid range (0–1)?
 
+SELECT * 
+FROM order_items
+WHERE discount < 0  and discount > 1
+
 -- Are there negative quantities or prices?
+SELECT order_id,quantity,list_price
+FROM order_items
+WHERE
+    (quantity < 0 ) AND
+    (list_price < 0)
 
 -- Which tables need cleaning before analysis?
