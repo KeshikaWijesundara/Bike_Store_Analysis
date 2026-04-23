@@ -1,4 +1,22 @@
 -- How many rows exist in each table?
+SELECT 'brands' AS table_name,COUNT(*) AS row_count FROM brands
+UNION ALL
+SELECT 'categories' AS tale_name,COUNT(*) AS row_count FROM categories
+UNION ALL
+SELECT 'customers' AS table_name,COUNT(*) AS row_count FROM customers
+UNION ALL
+SELECT 'order_items' AS tale_name,COUNT(*) AS row_count FROM order_items
+UNION ALL
+SELECT 'orders' AS tale_name,COUNT(*) AS row_count FROM orders
+UNION ALL
+SELECT 'products' AS tale_name,COUNT(*) AS row_count FROM products
+UNION ALL
+SELECT 'staffs' AS tale_name,COUNT(*) AS row_count FROM staffs
+UNION ALL
+SELECT 'stocks' AS tale_name,COUNT(*) AS row_count FROM stocks
+UNION ALL
+SELECT 'stores' AS tale_name,COUNT(*) AS row_count FROM stores
+
 
 -- Are there duplicate primary keys in any table?
 
